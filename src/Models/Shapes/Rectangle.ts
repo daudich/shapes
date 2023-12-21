@@ -1,4 +1,4 @@
-import { Coordinate, Edge } from '../../Interfaces';
+import { Coordinate, Edge } from '../Interfaces';
 import AdjacencyType from '../../Enums/Types/AdjacencyType';
 import Paralellogram from './Interfaces/Paralellogram';
 import { ArrayUtils } from '../../Utils';
